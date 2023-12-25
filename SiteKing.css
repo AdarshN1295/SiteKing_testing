@@ -79,7 +79,7 @@ header{
   background-size: cover;
   animation-name: caraousal;
   animation-iteration-count: infinite;
-  animation-duration: 20s;
+  animation-duration: 15s;
   animation-timing-function: ease-in-out;}
 
 @keyframes caraousal {
@@ -1107,47 +1107,47 @@ footer{
 /* Blogs Images */
 
 .static_web{
-  background-image: url("/static-website.jpeg");
+  background-image: url("static-website.jpeg");
   background-size: cover;
   background-position: center;}
 
 .dynamic_web{
-  background-image: url("/dynamic-website.jpeg");
+  background-image: url("dynamic-website.jpeg");
   background-size: cover;
   background-position: center;}
 
 .web_hosting{
-  background-image: url("/website-hosting.png");
+  background-image: url("website-hosting.png");
   background-size: cover;
   background-position: center;}
 
 .intro_web{
-  background-image: url("/What-is-Website.png");
+  background-image: url("What-is-Website.png");
   background-size: cover;
   background-position: center;}
 
 .responsive_web{
-  background-image: url("/responsive.png");
+  background-image: url("responsive.png");
   background-size: cover;
   background-position: center;}
 
 .web_domain{
-  background-image: url("/domain-web.png");
+  background-image: url("domain-web.png");
   background-size: cover;
   background-position: center;}
 
 .user_ex{
-  background-image: url("/ui-ux.png");
+  background-image: url("ui-ux.png");
   background-size: cover;
   background-position: center;}
 
 .seo_web{
-  background-image: url("/seo-web.jpeg");
+  background-image: url("seo-web.jpeg");
   background-size: cover;
   background-position: center;}
 
 .web_color{
-  background-image: url("/color-pshychology.png");
+  background-image: url("color-pshychology.png");
   background-size: cover;
   background-position: center;}
 
